@@ -10,3 +10,189 @@
 [2024-02-09 00:23:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
 [2024-02-09 00:24:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
 [2024-02-09 00:25:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 00:26:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 00:27:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59092ms
+[2024-02-09 00:28:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 00:29:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 00:30:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 00:31:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59096ms
+[2024-02-09 00:32:00]: 60 packets transmitted, 21 received, +14 errors, 65% packet loss, time 66079ms
+[2024-02-09 00:33:01]: 60 packets transmitted, 0 received, +53 errors, 100% packet loss, time 81824ms
+[2024-02-09 00:34:00]: 60 packets transmitted, 0 received, +46 errors, 100% packet loss, time 71375ms
+[2024-02-09 00:35:00]: 60 packets transmitted, 0 received, +44 errors, 100% packet loss, time 74581ms
+[2024-02-09 00:36:00]: 60 packets transmitted, 0 received, +34 errors, 100% packet loss, time 66044ms
+[2024-02-09 00:37:00]: 60 packets transmitted, 0 received, +52 errors, 100% packet loss, time 85594ms
+[2024-02-09 00:38:00]: 60 packets transmitted, 0 received, +43 errors, 100% packet loss, time 69336ms
+[2024-02-09 00:39:00]: 60 packets transmitted, 0 received, +48 errors, 100% packet loss, time 76669ms
+[2024-02-09 00:40:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 81051ms
+[2024-02-09 00:41:00]: 60 packets transmitted, 0 received, +44 errors, 100% packet loss, time 69947ms
+[2024-02-09 00:42:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 78636ms
+[2024-02-09 00:43:00]: 60 packets transmitted, 0 received, +44 errors, 100% packet loss, time 69341ms
+[2024-02-09 00:44:00]: 60 packets transmitted, 0 received, +54 errors, 100% packet loss, time 83494ms
+[2024-02-09 00:45:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 81676ms
+[2024-02-09 00:46:00]: 60 packets transmitted, 0 received, +46 errors, 100% packet loss, time 79613ms
+[2024-02-09 00:47:01]: 60 packets transmitted, 0 received, +46 errors, 100% packet loss, time 82929ms
+[2024-02-09 00:48:00]: 60 packets transmitted, 0 received, +46 errors, 100% packet loss, time 73433ms
+[2024-02-09 00:49:00]: 60 packets transmitted, 0 received, +54 errors, 100% packet loss, time 82732ms
+[2024-02-09 00:50:00]: 60 packets transmitted, 0 received, +47 errors, 100% packet loss, time 80590ms
+[2024-02-09 00:51:01]: 60 packets transmitted, 0 received, +44 errors, 100% packet loss, time 83955ms
+[2024-02-09 00:52:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 77472ms
+[2024-02-09 00:53:00]: 60 packets transmitted, 0 received, +46 errors, 100% packet loss, time 71434ms
+[2024-02-09 00:54:00]: 60 packets transmitted, 0 received, +54 errors, 100% packet loss, time 82784ms
+[2024-02-09 00:55:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 82550ms
+[2024-02-09 00:56:00]: 60 packets transmitted, 0 received, +52 errors, 100% packet loss, time 83810ms
+[2024-02-09 00:57:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 80558ms
+[2024-02-09 00:58:00]: 60 packets transmitted, 0 received, +49 errors, 100% packet loss, time 79611ms
+[2024-02-09 00:59:00]: 60 packets transmitted, 0 received, +48 errors, 100% packet loss, time 83979ms
+[2024-02-09 01:00:00]: 60 packets transmitted, 0 received, +50 errors, 100% packet loss, time 81695ms
+[2024-02-09 01:01:00]: 60 packets transmitted, 0 received, +48 errors, 100% packet loss, time 75503ms
+[2024-02-09 01:02:00]: 60 packets transmitted, 0 received, +46 errors, 100% packet loss, time 75577ms
+[2024-02-09 01:03:00]: 60 packets transmitted, 0 received, +56 errors, 100% packet loss, time 88151ms
+[2024-02-09 01:04:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 77459ms
+[2024-02-09 01:05:00]: 60 packets transmitted, 0 received, +44 errors, 100% packet loss, time 73461ms
+[2024-02-09 01:06:00]: 60 packets transmitted, 0 received, +38 errors, 100% packet loss, time 77789ms
+[2024-02-09 01:07:01]: 60 packets transmitted, 0 received, +50 errors, 100% packet loss, time 83963ms
+[2024-02-09 01:08:00]: 60 packets transmitted, 0 received, +53 errors, 100% packet loss, time 79515ms
+[2024-02-09 01:09:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 80772ms
+[2024-02-09 01:10:00]: 60 packets transmitted, 0 received, +45 errors, 100% packet loss, time 67287ms
+[2024-02-09 01:11:00]: 60 packets transmitted, 0 received, +52 errors, 100% packet loss, time 79746ms
+[2024-02-09 01:12:00]: 60 packets transmitted, 0 received, +47 errors, 100% packet loss, time 72438ms
+[2024-02-09 01:13:00]: 60 packets transmitted, 0 received, +38 errors, 100% packet loss, time 69049ms
+[2024-02-09 01:14:00]: 60 packets transmitted, 0 received, +47 errors, 100% packet loss, time 79581ms
+[2024-02-09 01:15:00]: 60 packets transmitted, 0 received, +41 errors, 100% packet loss, time 65633ms
+[2024-02-09 01:16:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 78740ms
+[2024-02-09 01:17:00]: 60 packets transmitted, 0 received, +50 errors, 100% packet loss, time 79526ms
+[2024-02-09 01:18:00]: 60 packets transmitted, 0 received, +41 errors, 100% packet loss, time 67637ms
+[2024-02-09 01:19:00]: 60 packets transmitted, 0 received, +36 errors, 100% packet loss, time 64376ms
+[2024-02-09 01:20:00]: 60 packets transmitted, 0 received, +47 errors, 100% packet loss, time 80828ms
+[2024-02-09 01:21:01]: 60 packets transmitted, 0 received, +47 errors, 100% packet loss, time 81917ms
+[2024-02-09 01:22:00]: 60 packets transmitted, 0 received, +50 errors, 100% packet loss, time 76490ms
+[2024-02-09 01:23:00]: 60 packets transmitted, 0 received, +52 errors, 100% packet loss, time 79645ms
+[2024-02-09 01:24:00]: 60 packets transmitted, 0 received, +50 errors, 100% packet loss, time 77570ms
+[2024-02-09 01:25:01]: 60 packets transmitted, 0 received, +50 errors, 100% packet loss, time 78567ms
+[2024-02-09 01:26:00]: 60 packets transmitted, 0 received, +51 errors, 100% packet loss, time 77768ms
+[2024-02-09 01:27:00]: 60 packets transmitted, 0 received, +48 errors, 100% packet loss, time 76550ms
+[2024-02-09 01:28:01]: 60 packets transmitted, 8 received, +32 errors, 86.6667% packet loss, time 68125ms
+[2024-02-09 01:29:00]: 60 packets transmitted, 51 received, 15% packet loss, time 59284ms
+[2024-02-09 01:30:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 01:31:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59078ms
+[2024-02-09 01:32:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 01:33:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59063ms
+[2024-02-09 01:34:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 01:35:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 01:36:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59058ms
+[2024-02-09 01:37:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 01:38:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 01:39:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 01:40:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 01:41:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59096ms
+[2024-02-09 01:42:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59095ms
+[2024-02-09 01:43:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 01:44:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 01:45:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59106ms
+[2024-02-09 01:46:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59104ms
+[2024-02-09 01:47:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 01:48:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 01:49:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 01:50:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 01:51:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59095ms
+[2024-02-09 01:52:02]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 01:53:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 01:54:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 01:55:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 01:56:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 01:57:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59095ms
+[2024-02-09 01:58:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 01:59:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:00:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:01:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:02:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:03:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 02:04:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:05:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 02:06:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:07:02]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 02:08:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 02:09:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:10:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:11:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59077ms
+[2024-02-09 02:12:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 02:13:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 02:14:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59096ms
+[2024-02-09 02:15:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 02:16:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 02:17:02]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 02:18:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 02:19:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:20:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:21:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 02:22:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59072ms
+[2024-02-09 02:23:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:24:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59096ms
+[2024-02-09 02:25:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 02:26:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:27:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:28:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 02:29:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 02:30:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59093ms
+[2024-02-09 02:31:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:32:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 02:33:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59104ms
+[2024-02-09 02:34:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:35:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 02:36:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 02:37:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:38:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:39:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 02:40:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:41:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 02:42:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:43:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 02:44:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 02:45:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:46:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59095ms
+[2024-02-09 02:47:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:48:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:49:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 02:50:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 02:51:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59091ms
+[2024-02-09 02:52:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 02:53:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 02:54:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59075ms
+[2024-02-09 02:55:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 02:56:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 02:57:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 02:58:00]: 60 packets transmitted, 34 received, 43.3333% packet loss, time 59644ms
+[2024-02-09 02:59:00]: 60 packets transmitted, 51 received, 15% packet loss, time 59298ms
+[2024-02-09 03:00:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:01:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59105ms
+[2024-02-09 03:02:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 03:03:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 03:04:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 03:05:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:06:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 03:07:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 03:08:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59105ms
+[2024-02-09 03:09:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59105ms
+[2024-02-09 03:10:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:11:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 03:12:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59097ms
+[2024-02-09 03:13:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 03:14:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 03:15:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59098ms
+[2024-02-09 03:16:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 03:17:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 03:18:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59100ms
+[2024-02-09 03:19:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59099ms
+[2024-02-09 03:20:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59094ms
+[2024-02-09 03:21:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59104ms
+[2024-02-09 03:22:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:23:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 03:24:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59092ms
+[2024-02-09 03:25:01]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:26:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 03:27:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59103ms
+[2024-02-09 03:28:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59101ms
+[2024-02-09 03:29:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:30:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59102ms
+[2024-02-09 03:31:00]: 60 packets transmitted, 60 received, 0% packet loss, time 59104ms
