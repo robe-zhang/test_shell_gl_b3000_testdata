@@ -1,6 +1,5 @@
 #!/usr/bin/expect -f
 
-set timeout 1000
 set password_string [lindex $argv 0]
 set thermal_zone [lindex $argv 1]
 
