@@ -1,46 +1,42 @@
+	freq: 5745
+	SSID: 607-1
 	freq: 5180
 	SSID: HUAWEI-ROBE_5G
 	freq: 5180
-	SSID: Happy_New_Year-5G
-	freq: 5180
 	SSID: ChinaNet-608-5G
+	freq: 5765
+	SSID: Redmi_1BDBB_5G
 	freq: 5240
 	SSID: 607-2
 	freq: 5240
 	SSID: 607-2_Wi-Fi5
 	freq: 5180
 	SSID: HUAWEI-8YNq-5G
-	freq: 5180
-	SSID: HUAWEI-BPIR3_5G
-	freq: 5745
-	SSID: 607-1
-	freq: 5765
-	SSID: ZH-5G
-	freq: 2462
-	SSID: 607-2
+	freq: 2422
+	SSID: ZH
 	freq: 2462
 	SSID: HUAWEI-8YNq
-	freq: 2427
-	SSID: ZH
-	freq: 5240
-	SSID: HUAWEI-AXT1K8_5G
+	freq: 2462
+	SSID: 607-2_Wi-Fi5
+	freq: 5180
+	SSID: HUAWEI-BPIR3_5G
+	freq: 2462
+	SSID: 607-2
 	freq: 2412
-	SSID: HUAWEI-BPIR3
-	freq: 2412
-	SSID: ChinaNet-407
-	freq: 2412
-	SSID: 607-1
-	freq: 5745
-	SSID: 509
+	SSID: Redmi_1BDBB
 	freq: 5745
 	SSID: 401
-	freq: 5745
+	freq: 2462
 	SSID: 
-	freq: 5745
-	SSID: 
+	freq: 5765
+	SSID: ZH-5G
+	freq: 5240
+	SSID: \xe8\x8c\x83\xe6\x9d\x8e\xe9\xb2\x81\xe4\xb8\x93\xe7\x94\xa85G
 	freq: 2437
 	SSID: ChinaNet-608
-	freq: 2437
-	SSID: 401
 	freq: 5180
+	SSID: ChinaNet-608-5G
+	freq: 5745
+	SSID: 
+	freq: 5745
 	SSID: 
